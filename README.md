@@ -19,5 +19,4 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 ## 📝 Meta para Janeiro
 
-- [X] Concluir o curso Métodos em Java;
 - [X] Fazer os Desafios de Código na plataforma DIO;
