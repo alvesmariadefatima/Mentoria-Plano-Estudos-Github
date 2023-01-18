@@ -17,6 +17,9 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 - Estruturas de Repetição e Arrays em Java -[acesse o curso](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined)
 - Entendendo Métodos em Java - [acesse o curso](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined)
 
-## 📝 Meta para Janeiro
+## 📝 Metas para Janeiro/Fevereiro
 
-- [X] Fazer os Desafios de Código na plataforma DIO;
+- [X] Concluir o módulo Programação Orientada a Objetos;
+- [X] Concluir o módulo Dominando a Programação com Spring Boot;
+- [X] Concluir os Desafios de Código - Nível Intermediário;
+- [x] Concluir o módulo Fortalecendo Sua Carreira Profissional;
